@@ -1,5 +1,5 @@
 # RNN_Study
-Repository for RNN study, summary of hunkim/DeepLearningZeroToAll
+Repository for RNN study, summary of https://github.com/hunkim/DeepLearningZeroToAll Lab-12-0 ~ Lab-12-5
 
 ## Requirement
 - Python 3.7 (below 3.8)
