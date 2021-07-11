@@ -7,14 +7,8 @@ Repository for RNN study, summary of [Lab 12-0](https://github.com/hunkim/DeepLe
 
 
 ## Overview
-- **0. Tensorflow basic**
-
-- **1. Create RNN Cell**
-
-- **2. RNN Training**
-
-- **3. Long Sequence RNN**
-
-- **4. Stacked RNN + Softmax Layer**
-
-- **5. RNN Stock Predection**
+- **1. Create RNN Cell**: [RNN_1](https://github.com/jstep750/RNN_Study/blob/main/RNN_1.ipynb)
+- **2. RNN Training**: [RNN_2](https://github.com/jstep750/RNN_Study/blob/main/RNN_2.ipynb)
+- **3. Long Sequence RNN**: [RNN_3](https://github.com/jstep750/RNN_Study/blob/main/RNN_3.ipynb)
+- **4. Stacked RNN + Softmax Layer**: [RNN_4](https://github.com/jstep750/RNN_Study/blob/main/RNN_4.ipynb)
+- **5. RNN Stock Predection**: [RNN_5](https://github.com/jstep750/RNN_Study/blob/main/RNN_5.ipynb)
