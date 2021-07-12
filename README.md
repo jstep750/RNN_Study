@@ -1,5 +1,5 @@
 # RNN_Study
-Repository for RNN study, summary of https://github.com/hunkim/DeepLearningZeroToAll
+Repository for RNN study, summary of https://hunkim.github.io/ml/
  ([Lab 12-0](https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-12-0-rnn_basics.ipynb) to [Lab 12-5](https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-12-5-rnn_stock_prediction.py))
 
 ## Requirement
